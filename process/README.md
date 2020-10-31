@@ -9,3 +9,5 @@
 8. pip install moviepy
 10. pip install pydub
 11. Run "python downloader.py" enter youtube URL
+12. Create 3 folders in /output - archieved, combined, final
+13. "python init.py" to start, enter youtubue URL
